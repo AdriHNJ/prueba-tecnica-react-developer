@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "json2typescript": "^1.5.1"
+  }
+}
